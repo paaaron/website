@@ -1,0 +1,1 @@
+# One Page responsive template
